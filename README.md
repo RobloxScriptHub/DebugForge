@@ -1,5 +1,5 @@
 # About
-> A Decompiler Compressed Into A GUI | HomeMade Decompiler.
+> A scripting utility made simple | DebugForge.
 
 ## Booting the Script
 ```lua
